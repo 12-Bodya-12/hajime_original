@@ -1,5 +1,5 @@
 <?php
-$room = readline('V=');
+$room = readline('V = ');
     $value = 0; $lastValue = 1000; $len = strlen($room);
     for ($i = 0; $i < $len; $i++)
 {
